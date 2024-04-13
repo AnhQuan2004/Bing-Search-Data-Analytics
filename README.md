@@ -1,4 +1,5 @@
 # Bing-Search-Data-Analytics
+I analyzed search data from Bing to get visual data and search trends from people in East Autralia.
 Here architecture in this project:
 ![Architecture](https://github.com/AnhQuan2004/Bing-Search-Data-Analytics/assets/118759611/f1082f35-2c12-4337-b201-3cb814f84d72)
 
